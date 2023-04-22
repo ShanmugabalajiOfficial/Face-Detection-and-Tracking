@@ -13,9 +13,15 @@ Haar Cascades use the Adaboost learning algorithm which selects a small number o
 Work Flow of Face Detection & Tracking :
 
 Step 1 : Loading Haar Cascade Face Algorithm.
+
 Step 2 : Initializing Camera.
+
 Step 3 : Reading Frame from Camera.
+
 Step 4 : Converting Color image to Gray scale image.
+
 Step 5 : Obtaining Face coordinates by passing algorithm.
+
 Step 6 : Drawing Rectangle on the Face Coordinates.
+
 Step 7 : Displaying the Output frame.
